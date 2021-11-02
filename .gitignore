@@ -7,6 +7,12 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+data
+feature
+result
+score
+tmp
+images
 .Python
 build/
 develop-eggs/
