@@ -9,7 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - 阿里云天池大赛赛题解析
-- 机器学习实战：基于Scikit-Learn、Keras和TensorFlow
+
+## [2021-11-24]
+
+### chagned
+
+- 《机器学习实战：基于Scikit-Learn、Keras和TensorFlow》
+  - 第2 ~ 9章，
+  - 第5，9章完成部分，后续再深入学习
 
 ## [2021-11-02]
 
